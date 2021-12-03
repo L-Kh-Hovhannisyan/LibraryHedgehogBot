@@ -7,8 +7,8 @@ There's a bot in my library!
 - [Technologies](#Technologies)
 - [How To Install](#How-To-Install)
 - [Demo](#Demo)
-- [Author](#Author)
 - [License](#License)
+- [Author](#Author)
 
 ## Description
 
