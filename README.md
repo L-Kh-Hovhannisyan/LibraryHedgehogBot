@@ -8,6 +8,7 @@ There's a bot in my library!
 - [How To Install](#How-To-Install)
 - [Demo](#Demo)
 - [Author](#Author)
+- [License](#License)
 
 ## Description
 
@@ -34,6 +35,10 @@ This is a telegram bot that allows users to search and download eBooks. To downl
 
 ## Demo
 https://user-images.githubusercontent.com/63071990/144626598-bbd92572-e0aa-4ff7-87b1-0277ab4c7c90.mp4
+
+## License
+
+GNU Affero General Public License v3.0
 
 ## Author
 
