@@ -5,7 +5,6 @@ There's a bot in my library!
 - [Description](#Description)
 - [Technologies](#Technologies)
 - [How To Install](#How-To-Install)
-- [License](#License)
 - [Author](#Author)
 
 ## Description
