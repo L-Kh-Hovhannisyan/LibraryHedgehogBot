@@ -1,5 +1,6 @@
 # LibraryHedgehogBot
 There's a bot in my library!
+- The project created especially for Moscow State University
 ### Table of Contents
 
 - [Description](#Description)
@@ -32,7 +33,7 @@ This is a telegram bot that allows users to search and download eBooks. To downl
     - `TELEGRAM_ACCESS_TOKEN=Your_access_token`  
 
 ## Demo
-![Library](https://user-images.githubusercontent.com/63071990/144625915-b4db8679-59eb-4d91-9542-22b3859450c5.gif)
+https://user-images.githubusercontent.com/63071990/144626598-bbd92572-e0aa-4ff7-87b1-0277ab4c7c90.mp4
 
 ## Author
 
