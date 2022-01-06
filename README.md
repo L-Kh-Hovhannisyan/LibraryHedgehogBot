@@ -1,5 +1,6 @@
 # LibraryHedgehogBot
 There's a bot in my library!
+- Language: Russian
 - The project created especially for Moscow State University
 ### Table of Contents
 
@@ -15,8 +16,6 @@ There's a bot in my library!
 This is a telegram bot that allows users to search and download eBooks. To download a book just send the title to the bot. You can access the bot by visiting the link below. 
 
 ## Live here: [http://t.me/LibraryHedgehogBot](http://t.me/LibraryHedgehogBot)
-
----
 
 ## Technologies
 
@@ -43,3 +42,5 @@ This project is licensed under the GNU Affero General Public License v3.0 see th
 ## Author
 
 L.Kh.Hovhannisyan
+---
+Please, if you notice any bug, inform me by following email!
