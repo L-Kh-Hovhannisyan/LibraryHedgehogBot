@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/63071990/144626598-bbd92572-e0aa-4ff7-
 
 ## License
 
-GNU Affero General Public License v3.0
+This project is licensed under the GNU Affero General Public License v3.0 see the LICENSE.md file for details!
 
 ## Author
 
