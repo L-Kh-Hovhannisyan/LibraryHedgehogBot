@@ -1,5 +1,7 @@
 # LibraryHedgehogBot
 There's a bot in my library!
+
+- This bot is still a work in progress
 - Language: Russian
 - The project created especially for Moscow State University
 ### Table of Contents
